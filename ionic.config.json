@@ -1,5 +1,7 @@
 {
   "name": "WakeOnPlan",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
